@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="bg_circle_radius">40dp</dimen>
+    <dimen name="bg_circle_line">0.5dp</dimen>
+
+
+</resources>
